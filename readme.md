@@ -6,10 +6,17 @@ Sometimes you accidentally publish a post or a page on your WordPress that was n
 
 With this plugin, such problems can be avoided!
 
-![](https://github.com/urre/are-you-sure/raw/master/screenshot.jpg)
+![](https://github.com/urre/Are-You-Sure/raw/master/screenshot.jpg)
+
+## Translation
+
+Are You Sure is available in:
+
++ English
++ Swedish
 
 ## Install
-Install plugin from the [WordPress plugin directory](http://wordpress.org/plugins/are-you-sure/)
+Install plugin from the [WordPress plugin directory](http://wordpress.org/plugins/re-you-sure/)
 
 ### Install manually
 + Add the plugin folder to /wp-content/plugins
