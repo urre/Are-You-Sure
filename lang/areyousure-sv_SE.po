@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Are You Sure\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-04 16:49+0100\n"
+"PO-Revision-Date: 2014-06-04 16:49+0100\n"
+"Last-Translator: Urban Sanden <hej@urre.me>\n"
+"Language-Team: Urban Sanden <hej@urre.me>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../are-you-sure.php:35
+msgid "Publish"
+msgstr "Publicera"
+
+#: ../are-you-sure.php:36
+msgid "Update"
+msgstr "Uppdatera"
+
+#: ../are-you-sure.php:37
+msgid "Are you sure you want to publish this?"
+msgstr "Är du säker på att du vill publicera?"
+
+#: ../are-you-sure.php:40
+msgid "testing"
+msgstr "TESTAR"
+
+#~ msgid "View"
+#~ msgstr "Visa"
+
+#~ msgid "Hide"
+#~ msgstr "Göm"
+
+#~ msgid "Set featured image"
+#~ msgstr "Ange utvald bild"
+
+#~ msgid "Remove attachment"
+#~ msgstr "Ta bort bilaga"
+
+#~ msgid "files attached"
+#~ msgstr "bilagor"
+
+#~ msgid "Searching..."
+#~ msgstr "Söker…"
+
+#~ msgid "Search"
+#~ msgstr "Sök"
+
+#~ msgid "No album cover(s) were found"
+#~ msgstr "Inga omslag hittades"
+
+#~ msgid "Try again"
+#~ msgstr "Försök igen"
+
+#~ msgid "Save post to change/remove featured image"
+#~ msgstr "Spara för att ändra/ta bort utvald bild"
+
+#~ msgid "Album cover finder"
+#~ msgstr "Sök skivomslag"
+
+#~ msgid "Search album covers"
+#~ msgstr "Sök skivomslag"
+
+#~ msgid "Artist"
+#~ msgstr "Artist"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Clear"
+#~ msgstr "Rensa"
+
+#~ msgid "Add as attachment"
+#~ msgstr "Lägg som bilaga"
+
+#~ msgid "Insert in editor"
+#~ msgstr "Infoga i innehåll"
+
+#~ msgid "Attachments"
+#~ msgstr "Bilagor"
