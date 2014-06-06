@@ -8,7 +8,7 @@ With this plugin, such problems can be avoided!
 
 ![](https://github.com/urre/Are-You-Sure/raw/master/screenshot.jpg)
 
-## Translation
+## Translations
 
 Are You Sure is available in:
 
