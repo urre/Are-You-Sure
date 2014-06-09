@@ -16,7 +16,7 @@ Are You Sure is available in:
 + Swedish
 
 ## Install
-Install plugin from the [WordPress plugin directory](http://wordpress.org/plugins/re-you-sure/)
+Install plugin from the [WordPress plugin directory](http://wordpress.org/plugins/are-you-sure/)
 
 ### Install manually
 + Add the plugin folder to /wp-content/plugins
