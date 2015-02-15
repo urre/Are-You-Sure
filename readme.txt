@@ -1,9 +1,9 @@
 === Album Cover Finder ===
 Contributors: urre
-Donate link: http://urre.me/donate
+Donate link: hej@urre.me
 Tags: publishing, confirmation
 Requires at least: 3.0
-Tested up to: 3.9.1
+Tested up to: 4.1
 Stable tag: 0.1
 
 Are You Sure? adds a confirmation dialogue to the Publish button.
