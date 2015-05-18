@@ -3,7 +3,7 @@ Contributors: urre
 Donate link: hej@urre.me
 Tags: publishing, confirmation
 Requires at least: 3.0
-Tested up to: 4.2
+Tested up to: 4.2.2
 Stable tag: 0.1
 
 Are You Sure? adds a confirmation dialogue to the Publish button.
