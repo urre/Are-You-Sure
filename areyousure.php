@@ -3,7 +3,7 @@
 * Plugin Name: Are you Sure?
 * Plugin URI: http://urre.me
 * Description: Adds a confirmation dialogue to the Publish button
-* Version: 0.1
+* Version: 0.2
 * Author: Urban Sanden
 * Author URI: http://urre.me
 * License: GPL2

@@ -1,10 +1,10 @@
 === Are You Sure ===
 Contributors: urre
-Donate link: hej@urre.me
+Donate link: https://www.paypal.me/urbansanden
 Tags: publishing, confirmation
 Requires at least: 3.0
-Tested up to: 4.2.2
-Stable tag: 0.1
+Tested up to: 4.6.1
+Stable tag: 0.2
 
 Are You Sure? adds a confirmation dialogue to the Publish button.
 
@@ -32,6 +32,9 @@ This plugin is available in the following languages:
 * Swedish
 
 == Changelog ==
+
+= 0.2 =
+Bug fixes
 
 = 0.1 =
 * First public version. It works!
